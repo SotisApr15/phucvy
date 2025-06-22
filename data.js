@@ -1267,5 +1267,4 @@ var data ={
 { "type": "Feature", "properties": { "interview__key": "37-74-68-84", "verifying": "BC07A02", "respname": "Nguyễn Thị Vân", "group": 1, "group_label": "1. Nhóm cung cấp mẹo tiết kiệm năng lượng", "h9": 2, "h9_label": "Huyện Bình Chánh", "h100": "Xã Phạm Văn Hai", "h12": "1B37/4", "h11": "Lô 3", "latitude": 10.78196845, "longtitude": 106.5525743 }, "geometry": { "type": "Point", "coordinates": [ 106.5525743, 10.78196845 ] } },
 { "type": "Feature", "properties": { "interview__key": "75-73-58-56", "verifying": "BC05361", "respname": "Phạm Thị Minh Phương", "group": 2, "group_label": "2. Nhóm cung cấp mẹo tiết kiệm năng lượng và ảnh nhiệt", "h9": 2, "h9_label": "Huyện Bình Chánh", "h100": "Thị trấn Tân Túc", "h12": "4", "h11": "Nguyễn Hữu Trí", "latitude": 10.6966631, "longtitude": 106.5950909 }, "geometry": { "type": "Point", "coordinates": [ 106.5950909, 10.6966631 ] } }
 ]
-}
 };
