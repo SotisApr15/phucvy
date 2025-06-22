@@ -28,7 +28,7 @@
   }).addTo(map);
 
   // Load file GeoJSON
-  const dataLayer = L.geoJSON(data, {
+  const dataMapLayer = L.geoJSON(dataMap, {
 
 		filter(feature, layer) {
 			if (feature.properties) {
